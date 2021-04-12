@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Ila Abreu.
-- Data de Nascimento 17/10/1999.
-- Moro atualmente em Guarulhos, SP.
+- ◼  Data de Nascimento 17/10/1999.
+- 🏠 Moro atualmente em Guarulhos, SP.
 - 👀 Estou em busca de aprendizado e oportunidades de trabalho ...
 - 📚 Estou cursando Tecnológo em Análise e Desenvolvimento de Sistemas, com previsão de conclusão em julho de 2022.
 - 🌱 Além da faculdade, estou me aprofundando em desenvolvimento Web Completo, e já tenho alguns conhecimentos em HTML5 e CSS3, além de lógica de programação...
