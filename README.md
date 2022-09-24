@@ -3,7 +3,9 @@
 - 🏠 Moro atualmente em Guarulhos, SP.
 - 👀 Estou em busca de aprendizado e oportunidades ...
 - 👨‍🎓 Tecnológo em Análise e Desenvolvimento de Sistemas, Concluído em julho de 2022.
-- 🌱 Além da faculdade, estou me aprofundando em desenvolvimento Web, tenho conhecimentos em HTML5 e CSS3, Javascript, Git, e aprendendo novas tecnologias...
+- 💻 Tenho conhecimentos nas tecnologias HTML5, CSS3, Javascript, Git, SQL, Angular...
+- 📝 Conhecimentos nos Sistemas: ServiceNow, SAP.
+- 📚 Buscando aprender novas tecnologias e aprofundar meus conhecimentos adquiridos.
 - 📫 Como me encontrar: 
 - LinkedIn: www.linkedin.com/in/ilaabreu | Instagram: www.instagram.com/ila.abreu/ 
 <!---
